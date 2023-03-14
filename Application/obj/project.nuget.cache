@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "DpI3f4GMW5Blh2WBLetK4M7ihPdChd+GdnU4tro0oSVonaOpPCj46CY3k0fjeepNvzuq9vGz9WoeeI7d3zIxjQ==",
+  "dgSpecHash": "/PhKaZu4HuMsgd0ZySn/nxoL6zbHNrP1oK7vepI7Ss769pQlIoWpgqPoLW4/A+4iSKdaqjILq/Eo2jWUVcTaTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sabareeza_PCG_01\\Demo\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Sabareeza_PCG_01\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Sabareeza_PCG_01\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Sabareeza_PCG_01\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Sabareeza_PCG_01\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Sabareeza_PCG_01\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Sabareeza_PCG_01\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Sabareeza_PCG_01\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.3\\microsoft.data.sqlite.core.7.0.3.nupkg.sha512",
     "C:\\Users\\Sabareeza_PCG_01\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\Sabareeza_PCG_01\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
